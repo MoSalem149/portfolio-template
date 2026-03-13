@@ -4,7 +4,7 @@ A clean, responsive personal portfolio website template designed for UI/UX desig
 
 ## 🚀 Live Demo
 
-> Coming soon...
+> https://web-portfolio-ui.netlify.app/
 
 ## 📸 Key Sections
 
